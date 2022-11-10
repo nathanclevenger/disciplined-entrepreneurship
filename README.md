@@ -7,7 +7,7 @@
 3. Build an End User Profile
 4. Calculate the TAM Size for the Beachhead Market
 5. Profile the Persona for the Beachhead Market
-6. Identify Your Next 10 Customers
+9. Identify Your Next 10 Customers
 
 ## What can you do for your customer?
 
